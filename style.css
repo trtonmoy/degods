@@ -1094,9 +1094,15 @@ footer span {
   margin: 50px 0;
 }
 
+.ca_txt {
+  font-size: 20px;
+}
 @media only screen and (max-width: 768px) {
   .navbar {
     padding: 0 10px;
+  }
+  .ca_txt {
+    font-size: 13px;
   }
   .sm_img {
     display: block;
