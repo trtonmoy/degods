@@ -1,6 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&amp;display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap");
 
+@font-face {
+  font-family: "Nostalgic"; /* Give your font family a name */
+  src: url("./font/Nostalgic\ remain\ regular.ttf") format("woff"); /* Specify the path to your font file and its format */
+  /* You can add additional font file formats here if needed */
+}
+
 * {
   margin: 0;
   padding: 0;
